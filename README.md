@@ -1,4 +1,4 @@
-# projetos-python
+# Projetos Python
 Alguns projetos criados em Python
 
 ## Ping-Pong
